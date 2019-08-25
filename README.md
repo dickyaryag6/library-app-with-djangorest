@@ -1,1 +1,0 @@
-# library-app-with-djangorest
